@@ -1,0 +1,4 @@
+.buildozer/
+build_log.txt
+bin/
+*.log
